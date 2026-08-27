@@ -31,11 +31,11 @@ I'm not going to pretend I know everything. I know enough to be dangerous and I'
 
 ## Projects I’ve Built
 
-**💰 [Smart Finance Analyzer](https://github.com/Malharvala/smart-finance-analyzer)**
+** [Smart Finance Analyzer](https://github.com/Malharvala/smart-finance-analyzer)**
 A full personal finance CLI — budgets, savings goals, anomaly detection via Z-scores, recurring expense detection, spending forecasts — built entirely on Python's standard library, zero third-party dependencies. Layered architecture (CLI → Service → Analytics → Repository), repository pattern for SQLite, and backed by 121 unit tests. This is the project that best shows how I actually write code, not just scripts.
 
 
-**📊 [RCB IPL 2026 Match Analytics](https://github.com/Malharvala/RCB_IPL_2026_Match_Analytics_Dataset)**
+** [RCB IPL 2026 Match Analytics](https://github.com/Malharvala/RCB_IPL_2026_Match_Analytics_Dataset)**
 Deep dive into one team's season — batting/bowling scorecards, venue analysis, powerplay breakdowns. Built to answer real cricket questions with real pandas code, not just make a pretty chart.
 
 
