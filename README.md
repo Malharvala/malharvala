@@ -1,10 +1,10 @@
 # Hey, I'm Malhar 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Pandas;Turning+Data+Into+Decisions)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C;Turning+Data+Into+Decisions)
 
 I'm a B.E. IT student who got tired of just reading about data science and started actually doing it — pulling messy datasets apart, writing SQL that doesn't break, and building small tools until they work properly.
 
-Right now I'm chasing a Data Science internship, and this profile is where I'm putting the proof.
+Right now I'm chasing a Data Analyst internship, and this profile is where I'm putting the proof.
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Data%20Science%20Internships-brightgreen)
 ![Location](https://img.shields.io/badge/📍-Ahmedabad%2C%20India-blue)
